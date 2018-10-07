@@ -1,12 +1,16 @@
-
 ## WetherPy
 ---
 
 #### Analysis
 
 * Observer Trend 1
+        Maximun temperture is almost at 100F from Lat = 0 to 30 degrees near to Equator.
+    
 * Observer Trend 2
+        High concentration of humidity from the equator up to the north
+    
 * Observer Trend 3
+        More presence of highs on wind speed at the south of the equator.
 
 
 
